@@ -15,4 +15,5 @@ Food Munch is a clean, responsive food ordering website designed for a smooth an
 
 ### Deployment:
 Deployed using **GitHub Pages** / **Netlify** for public access.
+Host Link - https://manogna7s.github.io/Food-Munch/
 
